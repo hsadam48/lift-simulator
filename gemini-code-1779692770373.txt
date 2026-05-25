@@ -1,0 +1,8 @@
+your-project/
+│
+├── app.py                      # Cleaned Streamlit UI Entry Point
+└── core/
+    ├── __init__.py
+    ├── inputs.py               # Data Models & Structure Definitions
+    ├── kinematics.py           # Kinematics & S-Curve Profiler
+    └── analytical_engine.py    # Traffic Mathematics & Optimized Solver
